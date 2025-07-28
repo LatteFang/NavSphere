@@ -10,6 +10,6 @@ GITHUB_ID = "Ov23liezi3QTWUjo9nfC"
 GITHUB_OWNER = "LatteFang"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://navsphere-b1n.pages.dev/api/auth"
-NEXT_PUBLIC_API_URL="https://navsphere-b1n.pages.dev"
+NEXTAUTH_URL = "https://nav.tosheart.com/api/auth"
+NEXT_PUBLIC_API_URL="https://nav.tosheart.com"
 
